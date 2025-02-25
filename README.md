@@ -1,4 +1,4 @@
 # New project
 
 This project was created from local
-created by Raj Prajapati
+created by Raj Prajapati.
